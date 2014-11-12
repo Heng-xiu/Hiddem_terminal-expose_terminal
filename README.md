@@ -7,3 +7,7 @@ Include
 ===============================
 test_exposed_terminal.tcl
 test_hidden_terminal.tcl
+
+License
+===============================
+本檔案取自NS2網路模擬實驗，版權為作者群:柯志亨，程榮祥，鄧德雋所有
